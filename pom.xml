@@ -15,6 +15,10 @@
 	<name>spring-boot-react-mysql</name>
 	<description>How to Integrate React.js with Spring Boot</description>
 	
+	<properties>
+  <sonar.organization>saurabhkothari5251</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
 	<properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
